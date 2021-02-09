@@ -34,21 +34,22 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Complete Control
+- title                                 : Complete Control
     description                           : We provide a complete light control on the frontpage. You can group multiple lights into spaces for easier control.
     fontawesome_icon_name                 : magic
     
   - title                                 : Human Centric Lighting
     description                           : We provide you with a personalised lighting scenario, that will play throughout the day
-    fontawesome_icon_name                 : magic
- 
- - title                                  : Habits
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Habits
     description                           : Habits allow you to schedule reoccuring events. You have a meeting every weekday at 10:00? The lamps will automatically change to a bluer color, to enhance your focus.
-    fontawesome_icon_name                 : magic
- 
+    fontawesome_icon_name                 : play-circle
+
   - title                                 : Laboratory
     description                           : With advanced algorithms, we will detect patterns in your day to recommend habbits to you, you might not even be aware of!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : sync
+
 
 # Theme Settings
 topbar_color                              : "#000000"
