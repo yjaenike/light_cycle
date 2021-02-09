@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-- title                                 : Complete Control
+  - title                                 : Complete Control
     description                           : We provide a complete light control on the frontpage. You can group multiple lights into spaces for easier control.
     fontawesome_icon_name                 : magic
     
