@@ -34,12 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Complete Control
+    description                           : We provide a complete light control on the frontpage. You can group multiple lights into spaces for easier control.
     fontawesome_icon_name                 : magic
     
-
-
+  - title                                 : Human Centric Lighting
+    description                           : We provide you with a personalised lighting scenario, that will play throughout the day
+    fontawesome_icon_name                 : magic
+ 
+ - title                                  : Habits
+    description                           : Habits allow you to schedule reoccuring events. You have a meeting every weekday at 10:00? The lamps will automatically change to a bluer color, to enhance your focus.
+    fontawesome_icon_name                 : magic
+ 
+  - title                                 : Laboratory
+    description                           : With advanced algorithms, we will detect patterns in your day to recommend habbits to you, you might not even be aware of!
+    fontawesome_icon_name                 : magic
 
 # Theme Settings
 topbar_color                              : "#000000"
